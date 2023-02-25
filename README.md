@@ -18,12 +18,6 @@ open cypress dashboard
 ```bash
 npx cypress open
 ```
-<b>Install</b>
-Node JS
-Java SDK & JAVA_HOME
-Android Studio & ANDROID_HOME
-Appium Server
-Appium Inspector
 
 ## 1. Code review <br>
 Pengujian berisi scenario pengujian yang berbeda untuk menguji fungsionalitas yang ada pada halaman web https://www.saucedemo.com/. Pengujian terdiri dari beberapa pengujian sebagai berikut: <br>

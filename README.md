@@ -50,7 +50,9 @@ Anda bisa melihatnya di halaman berikut: https://github.com/Kengyuuon/Cypress-ty
 link: https://github.com/Kengyuuon/Cypress-typescript
 
 ## 5. Record
- Video Record: 
+ Video Record </br>
+ npx cypress run: https://drive.google.com/file/d/17KEiW81AE3KkUdnZdttY6FOLB9zL2XZw/view?usp=drivesdk </br>
+ npx cypress open: https://drive.google.com/file/d/102uaJr0lEeK8GBmwZk51KVhj2UtMWl_N/view?usp=drivesdk </br>
 
 ## 6. Push to github
 Link: https://github.com/Kengyuuon/Cypress-typescript
